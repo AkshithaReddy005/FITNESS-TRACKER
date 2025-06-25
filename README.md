@@ -91,8 +91,9 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ---
 
-> _Made with ❤️ for the fitness community!_
 
 ## 📬 Contact
 
 Created by [Akshitha Reddy](https://github.com/AkshithaReddy005) - feel free to reach out!
+
+> _Made with ❤️ for the fitness community!_
